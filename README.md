@@ -1,0 +1,2 @@
+# MydiscordBot
+kotlinでdiscordボット作ってみた
